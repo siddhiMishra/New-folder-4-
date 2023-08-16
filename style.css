@@ -1,0 +1,29 @@
+body {
+  background-image: url(https://images.unsplash.com/photo-1673648955339-843515ab12fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  max-width: 100%;
+  margin: 0;
+}
+
+header {
+  background-image: url(https://milliondollarads.com/hosted/images/c7/3001968a264fbfa68982cf31e64f28/MDAheaderBackgroundBlue2-10.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.custom-box {
+  width: 100%;
+  border-radius: 15px;
+  border: 2px solid #ccc;
+  padding: 4px;
+  box-sizing: border-box;
+}
+
+#longStory {
+  background-image: url("https://milliondollarads.com/hosted/images/04/0dacefe8a346b9b436c8d3cb01cdda/PJunderwater3-01.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
